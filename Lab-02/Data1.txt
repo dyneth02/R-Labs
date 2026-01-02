@@ -1,0 +1,6 @@
+Gender,Age,Marks,Country
+M,23,85,USA
+M,22,77,UK
+F,24,81,UK
+M,18,75,India
+F,25,88,France
