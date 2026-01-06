@@ -39,8 +39,3 @@ Practical application of statistical formulas:
 * [R (version 4.0+)](https://www.r-project.org/)
 * [RStudio](https://posit.co/download/rstudio-desktop/)
 * Required Libraries: `tidyr`, `dplyr`
-
-## 📝 Usage
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/](https://github.com/)[Your-Username]/R-Probability-Statistics.git
